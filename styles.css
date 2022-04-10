@@ -89,10 +89,10 @@ section {
 	border-radius:  100px;
 }
 .about-me {
-width: 300px;
-margin: 5px;
-display: flex;
-justify-content: space-evenly;
+	width: 300px;
+	margin: 5px;
+	display: flex;
+	justify-content: space-evenly;
 }
 
 .info {
@@ -142,7 +142,7 @@ justify-content: space-evenly;
 .input-group {
 	display: flex;
 	flex-direction: column;
-    margin: 0 5px 0 0;
+	margin: 0 5px 0 0;
 }
 footer {
 	width: 100%;
